@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Nikhil_Website/static/css/main.afde4826.chunk.css",
+    "main.js": "/Nikhil_Website/static/js/main.3b0100a3.chunk.js",
+    "main.js.map": "/Nikhil_Website/static/js/main.3b0100a3.chunk.js.map",
+    "runtime-main.js": "/Nikhil_Website/static/js/runtime-main.2483397d.js",
+    "runtime-main.js.map": "/Nikhil_Website/static/js/runtime-main.2483397d.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/Nikhil_Website/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.d297bdb8.chunk.js": "/Nikhil_Website/static/js/2.d297bdb8.chunk.js",
+    "static/js/2.d297bdb8.chunk.js.map": "/Nikhil_Website/static/js/2.d297bdb8.chunk.js.map",
+    "index.html": "/Nikhil_Website/index.html",
+    "precache-manifest.2d34ca9a1174c450cfb6592282dca0d1.js": "/Nikhil_Website/precache-manifest.2d34ca9a1174c450cfb6592282dca0d1.js",
+    "service-worker.js": "/Nikhil_Website/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/Nikhil_Website/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.afde4826.chunk.css.map": "/Nikhil_Website/static/css/main.afde4826.chunk.css.map",
+    "static/js/2.d297bdb8.chunk.js.LICENSE.txt": "/Nikhil_Website/static/js/2.d297bdb8.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Nikhil_Website/static/media/logo.5d5d9eef.svg",
+    "static/media/pizza.jpg": "/Nikhil_Website/static/media/pizza.67184173.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2483397d.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.d297bdb8.chunk.js",
+    "static/css/main.afde4826.chunk.css",
+    "static/js/main.3b0100a3.chunk.js"
+  ]
+}
